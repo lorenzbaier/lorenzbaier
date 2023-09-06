@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenz Baier</h1>
 
-- 🔭 I’m currently working on **my bachelor thesis**
+- 🔭 I’m currently working
 
 - 📫 How to reach me **lorenz.baier10101@gmail.com**
 
